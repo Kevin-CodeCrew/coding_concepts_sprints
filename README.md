@@ -1,4 +1,4 @@
-# Top Level TOC to all Coding Sprints
+# Top Level TOC to all Coding Sprints (MERN)
 
 - [Coding Concepts Sprint 1](https://github.com/Kevin-CodeCrew/coding_concepts_sprint_1)
 - [Coding Concepts Sprint 2](https://github.com/Kevin-CodeCrew/coding_concepts_sprint_2)
