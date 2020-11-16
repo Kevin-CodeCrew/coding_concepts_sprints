@@ -8,3 +8,6 @@
 - [Coding Concepts Sprint 5](https://github.com/Kevin-CodeCrew/coding_concepts_sprint_5)
 ## C# / .NET
 - [Coding Concepts .NET Sprint 3](https://github.com/Kevin-CodeCrew/coding_concepts_dotnet_sprint_3/blob/master/README.md)
+
+## Extra Topics
+- [Various Topics from Review](https://github.com/Kevin-CodeCrew/coding_concepts_extra_topics/blob/main/README.md)
